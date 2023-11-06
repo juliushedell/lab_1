@@ -1,0 +1,81 @@
+body {
+    background-color:rgb(189, 201, 212);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/* ALLERGY INFORMATION*/
+#ingredients {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+#burgernames {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+header, main {
+    margin: 2em;
+}
+
+#menu, #instructions {
+    text-align: center;
+}
+
+.burgers {
+    border: #ff0000;
+    border-style: dashed;
+}
+
+#contact {
+    background-color: black;
+    color: white;
+    border: white;
+    border-style: dashed;
+    padding: 1em;
+}
+
+button:hover {
+    background-color: rgb(0, 98, 255);
+    color: white;
+    cursor: pointer;
+}
+
+button {
+    margin-top: 2em;
+    margin-left: 0.8em;
+}
+
+.images {
+    height: 15em;
+}
+
+section {
+    margin: 0.3em;
+}
+
+#footer {
+    font-size: small;
+}
+
+#headpicture {
+    width: 100%;
+    opacity: 0.3;
+}
+
+#headline {
+    position: absolute;
+    margin-top: -5em;
+    margin-left: 13em;
+}
+
+.wrapper {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.box {
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+}
