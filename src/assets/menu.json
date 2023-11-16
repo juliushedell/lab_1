@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Smashed Blaster",
+      "kCal": 700,
+      "lactose": true,
+      "gluten": true,
+      "url": "../img/Burger_1.jpeg"
+    }, 
+    {
+        "name": "American Style",
+        "kCal": 1000,
+        "lactose": false,
+        "gluten": true,
+        "url": "../img/Burger_2.jpeg"
+      }, 
+      {
+        "name": "Crispy Chicken",
+        "kCal": 200,
+        "lactose": false,
+        "gluten": false,
+        "url": "../img/Burger_4.jpeg"
+      }
+  ]
